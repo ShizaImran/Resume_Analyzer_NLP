@@ -23,3 +23,6 @@ To get started with the Resume Analyzer App, follow these steps:
    ```sh
    git clone https://github.com/your-username/resume_analyzer.git
    cd resume_analyzer
+pip install -r requirements.txt
+
+streamlit run resume_analyzer_main.py
