@@ -1,6 +1,5 @@
 # Resume Analyzer App
 
-![Resume Analyzer](Resume_Analyzer_NLP/Screenshot 2024-07-23 174938.png)
 ![image](https://github.com/user-attachments/assets/9ba851fc-0ac3-49b7-befb-539cec7c4fa1)
 
 ## Overview
