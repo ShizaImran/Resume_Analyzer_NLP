@@ -1,6 +1,6 @@
 # Resume Analyzer App
 
-![Resume Analyzer](Screenshot 2024-07-23 174938.png)
+![Resume Analyzer](Resume_Analyzer_NLP/Screenshot 2024-07-23 174938.png)
 
 ## Overview
 
