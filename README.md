@@ -1,6 +1,6 @@
 # Resume Analyzer App
 
-![Resume Analyzer](path/to/your/image.png)
+![Resume Analyzer](Screenshot 2024-07-23 174938.png)
 
 ## Overview
 
